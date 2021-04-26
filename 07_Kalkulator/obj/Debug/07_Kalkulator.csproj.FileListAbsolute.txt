@@ -1,0 +1,10 @@
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\bin\Debug\07_Kalkulator.exe.config
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\bin\Debug\07_Kalkulator.exe
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\bin\Debug\07_Kalkulator.pdb
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\obj\Debug\07_Kalkulator.csprojAssemblyReference.cache
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\obj\Debug\_07_Kalkulator.Form1.resources
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\obj\Debug\_07_Kalkulator.Properties.Resources.resources
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\obj\Debug\07_Kalkulator.csproj.GenerateResource.cache
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\obj\Debug\07_Kalkulator.csproj.CoreCompileInputs.cache
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\obj\Debug\07_Kalkulator.exe
+D:\Tugas\07_kalkulator\07_Kalkulator\07_Kalkulator\obj\Debug\07_Kalkulator.pdb
